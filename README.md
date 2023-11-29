@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saishkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="saishkulkarni" /> </p>
 
--  I’m currently working on **Spring, Hibernate ,JavaScript , React**
-
 - 💬 Ask me about **Spring, Hibernate**
 
 - 📫 How to reach me **saishkulkarni7@gmail.com**
