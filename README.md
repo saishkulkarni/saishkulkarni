@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/saishkulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saishkulkarni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saish kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saish kulkarni" height="30" width="40" /></a>
-<a href="https://fb.com/saishkulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saishkulkarni" height="30" width="40" /></a>
+<a href="https://www.facebook.com/saish.kulkarni.35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saish kulkarni" height="30" width="40" /></a>
 <a href="https://instagram.com/s13sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s13sh" height="30" width="40" /></a>
 </p>
 
