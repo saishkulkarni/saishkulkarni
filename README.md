@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saish Kulkarni</h1>
-<h3 align="center">Results-oriented professional committed to building a successful career in software development</h3>
+<h3 align="center">Result-oriented professional committed to building a successful career in software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saishkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="saishkulkarni" /> </p>
 
