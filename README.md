@@ -41,11 +41,6 @@ I'm a passionate Java developer specializing in building robust web applications
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saishkulkarni&show_icons=true&locale=en&layout=compact" alt="saishkulkarni" />
 </p>
 
-## 🏆 Projects
-- [Project 1](link-to-project-1): Brief description
-- [Project 2](link-to-project-2): Brief description
-
-
 ## 🛠️ Languages and Tools
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
