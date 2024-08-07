@@ -68,10 +68,6 @@ I'm a passionate Java developer specializing in building robust web applications
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
-
-## ⚡ Fun Fact
-When I'm not coding, you can find me [insert a hobby or interesting fact about yourself].
-
 ---
 
 <p align="center">
