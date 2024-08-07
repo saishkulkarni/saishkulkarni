@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saishkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="saishkulkarni" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=saishkulkarni.saishkulkarni" alt="visitors"/>
 </p>
 
 ## 🚀 About Me
