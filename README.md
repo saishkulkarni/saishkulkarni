@@ -67,7 +67,6 @@ I'm a passionate Java developer specializing in building robust web applications
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
----
 
 <p align="center">
   Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.
