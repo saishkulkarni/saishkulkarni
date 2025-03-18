@@ -4,33 +4,43 @@
   <img src="https://komarev.com/ghpvc/?username=saishkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="saishkulkarni" />
 </p>
 
-## 🚀 About Me
-I'm a passionate Java developer specializing in building robust web applications using Spring and Hibernate. With a strong foundation in backend development, I strive to create efficient and scalable solutions.
+## 🚀 About Me  
+I’m a **Java Backend Developer** specializing in building scalable and secure web applications using **Spring Boot and Microservices Architecture**. With a strong foundation in **backend development**, I am continuously improving my skills in **Spring Security, DevOps, and distributed systems**.
 
-- 🔭 I'm currently working on enhancing my skills in microservices architecture
-- 💬 Ask me about **Spring, Hibernate, Java, RESTful APIs**
-- 📫 How to reach me: **saishkulkarni7@gmail.com**
+- 🔭 **Currently Learning:** Microservices, Spring Security, Docker, Kubernetes, Kafka, Redis  
+- 💡 **Interested in:** Scalable architectures, API security, cloud-native applications  
+- 💬 **Ask Me About:** Java, Spring Boot, Spring Security, Microservices, REST APIs  
+- 📫 **How to Reach Me:** **saishkulkarni7@gmail.com**  
 
-## 🛠️ Skills
-- Java
-- Spring Framework (Spring Boot, Spring MVC)
-- Hibernate
-- RESTful API Design
-- MySQL
-- Git & GitHub
-- HTML/CSS
+---
 
-## 🔗 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/saish-kulkarni-777a44288/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saish kulkarni" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/s13sh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s13sh" height="30" width="40" />
-  </a>
-</p>
+## 🛠️ Skills & Technologies  
 
-## 📊 GitHub Stats
+### **Backend Development**  
+- **Java** (Core & Advanced)  
+- **Spring Framework** (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)  
+- **Microservices Architecture** (REST APIs, Service Communication)  
+- **Hibernate & JPA**  
+- **API Security** (OAuth2, JWT, Role-Based Access Control)  
+
+### **Databases**  
+- MySQL  
+- PostgreSQL  
+
+### **DevOps & Cloud**  
+- **Containerization & Orchestration:** Docker, Kubernetes (Learning)  
+- **Message Queues & Caching:** Kafka, Redis (Learning)  
+- **CI/CD & Automation:** GitHub Actions (Exploring)  
+- **Cloud Platforms:** AWS Basics  
+
+### **Tools & Other Technologies**  
+- Git & GitHub  
+- Postman (API Testing)  
+- HTML, CSS  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saishkulkarni&show_icons=true&theme=radical" alt="Saish's GitHub stats" />
@@ -40,28 +50,22 @@ I'm a passionate Java developer specializing in building robust web applications
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saishkulkarni&show_icons=true&locale=en&layout=compact" alt="saishkulkarni" />
 </p>
 
-## 🛠️ Languages and Tools
+---
+
+## 🔗 Connect with Me  
+
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/saish-kulkarni-777a44288/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://instagram.com/s13sh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
-<p align="center">
-  Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.
-</p>
+---
+
+## ⚡ Fun Fact  
+💡 I enjoy solving complex backend challenges, playing chess, and exploring new technologies in cloud and DevOps.  
+
+📌 **Let's build something amazing together!** 🚀
