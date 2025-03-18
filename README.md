@@ -38,19 +38,7 @@ I’m a **Java Backend Developer** specializing in building scalable and secure 
 - Postman (API Testing)  
 - HTML, CSS  
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saishkulkarni&show_icons=true&theme=radical" alt="Saish's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saishkulkarni&show_icons=true&locale=en&layout=compact" alt="saishkulkarni" />
-</p>
-
----
 
 ## 🔗 Connect with Me  
 
@@ -65,7 +53,6 @@ I’m a **Java Backend Developer** specializing in building scalable and secure 
 
 ---
 
-## ⚡ Fun Fact  
 💡 I enjoy solving complex backend challenges, playing chess, and exploring new technologies in cloud and DevOps.  
 
 📌 **Let's build something amazing together!** 🚀
